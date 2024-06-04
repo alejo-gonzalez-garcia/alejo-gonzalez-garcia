@@ -11,8 +11,11 @@ Hi, my name is Alejo González Garcia, I am a student in the penultimate year of
 ## Education
 
 - 🎓 **Double Degree in Science and Data Engineering / Telecommunication Technologies**
-  - Universidad Carlos III de Madrid
-  - Expected Graduation: 01/2025
+ - First promotion of the degree, completly new and in English.
+ - University Carlos III of Madrid (Bachelor link).
+ - Machine Learning, Artificial Intelligence, programming in different languages and environments, digital business models, cybersecurity for data and telecommunications, as well as cloudsolutions for computing and storage, among others.
+ - Broad overview of applications in the field of data analysis and secure storage.
+ - Understanding of the different networks layers and communicaton channels.
 
 
 ## Skills
@@ -51,5 +54,15 @@ Hi, my name is Alejo González Garcia, I am a student in the penultimate year of
   - Spark
   - SpaCy
   - Gensim
+
+- **Personal Interests**
+  - Motorsport
+  - Formula 1
+  - Strategy
+  - Hardware & Computers
+  - Science and Data Exploration
+  - Crypto
+  - Business & Investments
+  
 
 Feel free to explore my repositories and don't hesitate to connect! 🚀
