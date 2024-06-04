@@ -41,7 +41,6 @@ Hi, my name is Alejo González Garcia, I am a student in the penultimate year of
   - C
   - R
   - VHDL
-  - HTML
 
 - **Tools & Frameworks**
   - TensorFlow
