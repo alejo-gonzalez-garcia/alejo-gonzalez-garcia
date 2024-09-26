@@ -10,7 +10,7 @@ Hi, my name is Alejo González Garcia, I am a student in the penultimate year of
 
 ## Education
 
-- 🎓 **Double Degree in Science and Data Engineering / Telecommunication Technologies**
+- 🎓 **Dual Bachelor in Science and Data Engineering / Telecommunication Technologies**
  - First promotion of the degree, completly new and in English.
  - University Carlos III of Madrid (Bachelor link).
  - Machine Learning, Artificial Intelligence, programming in different languages and environments, digital business models, cybersecurity for data and telecommunications, as well as cloudsolutions for computing and storage, among others.
