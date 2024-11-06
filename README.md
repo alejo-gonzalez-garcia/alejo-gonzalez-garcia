@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hi, my name is Alejo González Garcia, I am a student in the penultimate year of the 1st promotion of the dual bachelor in data science & teleco. Technology enthusiast, passionate about cars and motorsport. Strategy lover, methodical, with high capacity to work under pressure and responsibility. Good communication skills, great desire to learn, work as a team and develop in the professional world.
+Hi, my name is Alejo González Garcia, I am a student in the last year of the 1st promotion of the dual bachelor in data science & teleco. Technology enthusiast, passionate about cars and motorsport. Strategy lover, methodical, with high capacity to work under pressure and responsibility. Good communication skills, great desire to learn, work as a team and develop in the professional world.
 
 ## Education
 
