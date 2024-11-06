@@ -6,7 +6,14 @@
 
 ## About Me
 
-Hi, my name is Alejo González Garcia, I am a student in the last year of the 1st promotion of the dual bachelor in data science & teleco. Technology enthusiast, passionate about cars and motorsport. Strategy lover, methodical, with high capacity to work under pressure and responsibility. Good communication skills, great desire to learn, work as a team and develop in the professional world.
+Hi, I am Alejo, a final-year student in the Dual Bachelor’s Degree program in Data Science and Engineering and Telecommunications Engineering at UC3M (University Carlos III of Madrid), part of the first class in this innovative and challenging degree. This English-taught program offers a broad, interdisciplinary approach, allowing me to build a solid foundation across data science, telecommunications, and cloud computing.
+
+Since starting my journey in cloud technologies, I've had the privilege of gaining hands-on experience as a Data Engineer Intern with @Devoteam, a @Google Cloud partner. This role has provided the chance to work with tools like Vertex AI, BigQuery or AutoML and to see their applications in real-world projects. Pursuing certifications has further improved my understanding of Cloud Architecture and Security, and I am eager to continue learning in this field.
+
+In addition to technology, I have a longstanding passion for cars and motorsport, especially Formula 1, which has inspired some of my projects. My approach is methodical, and I aim to bring strategic thinking to my work, alongside a desire to keep learning and contributing to my team.
+
+Motivated to grow within the fields of cloud computing, data science, and telecommunications, I am committed to working hard, learning continuously, and collaborating as a team.
+
 
 ## Education
 
